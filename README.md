@@ -1,16 +1,45 @@
-### Hi there 👋
+### Hi there, I'm Sahil Ahmed - aka [sahilahmed24] 👋
 
-<!--
-**sahilahmed24/sahilahmed24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student Developer !!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently exploring Open source and polishing my coding skills
+- 🌱 I’m currently learning everything 😃
+- 😄 Pronouns: he/him/his
+- 🥅 2021 Goals: Contribute to Open Source projects
+- ⚡ Fun fact: I love to play cricket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="sahilahmed24 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
+
+### Languages and Tools:
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+---
+
+## 🏆 Github Status
+![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultimatecoder2&count_private=true&show_icons=true&hide_border=true&theme=algolia&card_width=450)
+<br/>
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ultimatecoder2&layout=compact&langs_count=8&theme=algolia&langs_count=25&card_width=450)
+
+
+
+<br/>
+
+
+
+[linkedin]: https://www.linkedin.com/in/sahil-ahmed-2991281b7/
