@@ -31,6 +31,6 @@
 ---
 [linkedin]: https://www.linkedin.com/in/sahil-ahmed-2991281b7/
 
-## 🏆 Github Status
+## 🏆 Github Stats 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilahmed24&hide=contribs,prs)
 
