@@ -34,7 +34,7 @@
 [linkedin]: https://www.linkedin.com/in/sahil-ahmed-2991281b7/
 
 ## 🏆 Github Stats 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilahmed24&hide=contribs,prs)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilahmed24&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilahmed24&layout=compact&langs_count=8&theme=algolia&langs_count=25&card_width=450)
 
