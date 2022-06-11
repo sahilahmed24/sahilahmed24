@@ -1,11 +1,11 @@
 ### Hi there, I'm Sahil Ahmed - aka [sahilahmed24] 👋
 
-## I'm a student Developer !!
+## I'm a Full Stack Developer !!
 
 - 🔭 I’m currently exploring Open source and polishing my coding skills
 - 🌱 I’m currently learning everything 😃
 - 😄 Pronouns: he/him/his
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play cricket
 
 ### Connect with me:
