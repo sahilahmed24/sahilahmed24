@@ -34,7 +34,7 @@
 
 ## 🏆 Github Stats 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sahilahmed24)](https://git.io/streak-stats)
-
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilahmed24&layout=compact&langs_count=8&theme=algolia&langs_count=25&card_width=450)
 
 
 
