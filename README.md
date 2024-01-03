@@ -5,7 +5,7 @@
 - 🔭 I’m currently exploring Open source and polishing my coding skills.
 - 🌱 I’m currently learning Web 3.0 
 - 😄 Pronouns: he/him/his
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
