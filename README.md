@@ -1,4 +1,4 @@
-### Hi there, I'm Sahil Ahmed - aka [sahilahmed24] 👋
+### Hi there, I'm Sahil Ahmed - aka [sahilahmed24]👋
 
 ## I'm a Full Stack Developer !
 
